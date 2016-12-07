@@ -1,9 +1,19 @@
+# Archivos generados automaticamente por el IDE.
+build.xml
+ant.properties
+local.properties
+project.properties
+
+# Archivos de proyectos Eclipse.
+.classpath
+.project
+
+# Archivos de IDEA.
+.idea/
 *.iml
+*.ipr
+*.iws
+
+# Archivos Gradle de Construccion.
 .gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
+build/
