@@ -14,8 +14,22 @@ Instalacion
 
 
 clone el siguiente comando:
+---
 > $ git clone https://github.com/jorgeEcs/StudyJam_Tarea_1.git
 
 Capturas
 ---
-![Captura](/img/captura1.png)
+<div>
+    <center>
+        <table border="0">
+            <tr>
+                <td>
+                    <img src="/img/captura1.png" width="200">
+                </td>
+                <td>
+                    <img src="/img/captura2.png" width="200">
+                </td>
+            </tr>
+        </table>
+    </center>
+</div>
